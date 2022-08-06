@@ -4,7 +4,7 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
   modules: [
     ["@storyblok/nuxt", {
-      accessToken: ""
+      accessToken: "V6xarkiY5XGG3QXF7j4Pegtt"
     }]
   ]
 })
